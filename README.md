@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Gee. I established the repository on Github to share personal and external codes for scholars in applied linguistics and relevant areas. 
+- 👀 I’m interested in corpus linguistics, English for acaedmic purposes, grammar/syntax, and natural language processing. 
+- 🌱 I've been working on using corpus-based approaches to investigate grammatical complexity in academic writing with the support of computational techniques.
+- 📫 Free free to reach me out my research gate page or CityU scholar page:
+      - https://www.researchgate.net/profile/Ge-Lan
+      - https://scholars.cityu.edu.hk/en/persons/ge-lan(c449ff07-78b5-4b74-b5d2-c1893ad0d9d2).html
+
