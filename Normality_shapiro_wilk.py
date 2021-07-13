@@ -25,7 +25,7 @@ def run_shapiro (Data):
 
 # Start the main program here
 dataframe = build_data_frame(args.input_file)
-selected_dataframe = dataframe[['ADJ', 'APP', 'NN', 'NOM', 'PPOF', 'PPOTHER', 'M1', 'M1S1', 'M1S2', 'M2', 'M2S1', 'M2S2', 'M3', 'M3S1', 'M4']]
+selected_dataframe = dataframe[['header_x', 'header_y', 'header_z', 'header_etc']]
 #print(selected_dataframe)
 
 print ('Running a Shapiro-Wilk Test...')
