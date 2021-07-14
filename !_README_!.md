@@ -1,5 +1,3 @@
-                              ![image](https://user-images.githubusercontent.com/34285696/125544786-863b39a9-c92d-42a3-9b3f-0637cc2f2d7f.png)
-
 - 👋 Hi, I’m Gee (an assistant professor in the Department of English at CityU HK). I established the repository on Github to share personal and external codes with scholars in applied linguistics and relevant areas. 
 - 👀 I’m interested in corpus linguistics, English for acaedmic purposes, grammar/syntax, and natural language processing. 
 - 🌱 I've been working on using corpus-based approaches to investigate grammatical complexity in academic writing with the support of computational techniques.
