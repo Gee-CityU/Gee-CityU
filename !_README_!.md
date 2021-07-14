@@ -3,3 +3,4 @@
 - 🌱 I've been working on using corpus-based approaches to investigate grammatical complexity in academic writing with the support of computational techniques.
 - 📫 More info about me: (1) researchgate: https://www.researchgate.net/profile/Ge-Lan; (2) CityU scholar: https://scholars.cityu.edu.hk/en/persons/ge-lan(c449ff07-78b5-4b74-b5d2-c1893ad0d9d2).html
 
+![image](https://user-images.githubusercontent.com/34285696/125544740-34040f97-1481-4741-a817-4876aca85881.png)
